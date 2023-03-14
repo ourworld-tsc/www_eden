@@ -7,5 +7,5 @@ draft: false
 sort_by: weight
 weight: 1
 extra:
-    logo_path: images/logo_placeholder_owp.png
+    logo_path: images/logo_placeholder_eden_3.png
 ---
