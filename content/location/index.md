@@ -57,7 +57,7 @@ For short term stays. A beachfront hotel that sits beside historical ruins, all 
 For long-term stays. Two apartment buildings, with four three-bedroom spaces and one rooftop penthouse each. Private beach and direct access to Jungle Paradise.
 
  <button>[Info: Coming Soon]()</button>
-<a href=https://www.airbnb.com/rooms/862002310134454615?guests=1&adults=1&s=67&unique_share_id=845bb97b-f61c-4540-9f50-8d20dabfb042&source_impression_id=p3_1681142141_s2c4V86U9bhXi9Jv target=“_blank”> <button> Book a Stay </button> </a>
+ <a href='https://www.airbnb.com/rooms/862002310134454615?guests=1&adults=1&s=67&unique_share_id=845bb97b-f61c-4540-9f50-8d20dabfb042&source_impression_id=p3_1681142141_s2c4V86U9bhXi9Jv' target="_blank"> <button> Book a Stay </button> </a>
 
 {% end %}
 
