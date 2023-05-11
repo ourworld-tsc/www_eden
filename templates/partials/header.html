@@ -97,12 +97,12 @@
 {% else %}
     <header id="header-container">
         {% set header_class = config.extra.header_class | default(value='') %}
-        <div class="{{'z-10 bg-white fixed w-screen ' ~ header_class}}">
+        <div class="{{'z-10 bg-white fixed ' ~ header_class}}">
             <div class="relative z-50 shadow">
             <div class="mx-auto flex z-50 shadow justify-between items-center pl-6 pr-2 md:pr-0 lg:py-5  md:px-12 py-2 lg:px-20 lg:justify-start lg:space-x-20">
                 <div>
-                    <a href="/" class="flex">
-                        <img class="w-56 h-auto sm:w-15" src="{{logo_path}}" alt="FreeFlow Logo" />
+                    <a href="/" class="flex logo">
+                        <img class="h-auto sm:w-15" src="{{logo_path}}" alt="Eden Logo" />
                     </a>
                 </div>
                 <div class="-mr-2 -my-2 lg:hidden">
@@ -222,5 +222,11 @@
     </header>
     
 {% endif %}
+
+<style>
+    .logo{
+    width: 20%;
+    }
+</style>
 
 

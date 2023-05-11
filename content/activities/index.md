@@ -15,13 +15,6 @@ weight: 4
 
 No worries. Take it easy. Slowly, slowly, or "Pole, pole," as they say on the island. We have plenty of activities and experiences for eco-conscious and nature-loving travelers.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 {% end %}
 
 {% row(style="center" margin="narrow" padding="top") %}

@@ -20,10 +20,6 @@ Our primary focus is on **raising $4M USD by June 2023** in order to take on ful
  <button>[Investment Paper: Soon]()</button>
  <button>[Get In Touch](https://docs.google.com/forms/d/e/1FAIpQLSe33Kz4pi3qnNtv115cgSnKCYHZTxZxtPoZKXbaBcWgNbd2qw/viewform)</button>
 
- <br>
- <br>
- <br>
- <br>
 
 {% end %}
 

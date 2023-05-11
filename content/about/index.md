@@ -17,12 +17,6 @@ weight: 2
 
 We are fortunate enough to have found this special place and bold enough to turn our dreams into reality. Together we can show people the beauty of our world and help them find themselves in these hectic times.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 {% end %}
 
@@ -78,13 +72,13 @@ Primarily we are focused on building **[a decentralized Internet](https://threef
 
 {% row(bgColor="#FFFFFF" margin="moderate" padding="bottom" id="botanical") %}
 
-![Purpose](img/purpose.jpg#medium)
+![Purpose](img/purpose.jpg#mx-auto)
 
 |||
 
 ### Our Purpose
 
-<p>We aim to provide a space in which people feel at home and can create, live, work, heal, taste, learn, and experience. Eden will be a co-owned space in line with nature which will be fully sustainable and organic. The unique environment around us makes it possible – from Chumbe Island to the mangroves, the beach and sea, the ruins, the botanical garden.)</p>
+We aim to provide a space in which people feel at home and can create, live, work, heal, taste, learn, and experience. Eden will be a co-owned space in line with nature which will be fully sustainable and organic. The unique environment around us makes it possible – from Chumbe Island to the mangroves, the beach and sea, the ruins, the botanical garden.
 
 #### **Now or In-Motion**
 
@@ -125,6 +119,6 @@ Primarily we are focused on building **[a decentralized Internet](https://threef
 
 |||
 
-![Manifesto](img/manifesto.png#medium)
+![Manifesto](img/manifesto.png#mx-auto)
 
 {% end %}
