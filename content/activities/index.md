@@ -7,13 +7,17 @@ draft: false
 weight: 4
 ---
 
-{% row(style="center narrow" margin="header" bgPath="img/activities_header_2.png" bgStyle="full") %} 
+{% row(style="center narrow" margin="tight" bgPath="img/activities_header_2.png" bgStyle="full") %} 
+
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
  ## Experience Authentic Paradise
  
  ### By Land, By Sea, Always "Hakuna Matata"
 
 No worries. Take it easy. Slowly, slowly, or "Pole, pole," as they say on the island. We have plenty of activities and experiences for eco-conscious and nature-loving travelers.
+
+</div>
 
 {% end %}
 

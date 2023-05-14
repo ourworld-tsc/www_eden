@@ -9,7 +9,9 @@ weight: 4
 
 <!-- section 1 (JP) -->
 
-{% row(style="center narrow" margin="header" bgPath="img/protectheader.jpg" bgStyle="full") %}
+{% row(style="center narrow" margin="tight" bgPath="img/protectheader.jpg" bgStyle="full") %}
+
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
 ## Programs to Protect
 
@@ -19,6 +21,7 @@ By creating our own paradise we have a responsibility to the planet. Most of the
 
   <button>[Support the Project](/action)</button>
 
+</div>
 
 {% end %}
 

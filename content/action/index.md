@@ -7,7 +7,9 @@ draft: false
 weight: 6
 ---
 
-{% row(style="center narrow" margin="header" bgPath="img/join_header.png" bgStyle="full") %}
+{% row(style="center narrow" margin="tight" bgPath="img/join_header.png" bgStyle="full") %}
+
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
 ## Calling Dreamers & Doers
 
@@ -20,6 +22,7 @@ Our primary focus is on **raising $4M USD by June 2023** in order to take on ful
  <button>[Investment Paper: Soon]()</button>
  <button>[Get In Touch](https://docs.google.com/forms/d/e/1FAIpQLSe33Kz4pi3qnNtv115cgSnKCYHZTxZxtPoZKXbaBcWgNbd2qw/viewform)</button>
 
+</div>
 
 {% end %}
 

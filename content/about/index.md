@@ -9,7 +9,9 @@ weight: 2
 
 <!-- section 1 (JP) -->
 
-{% row(style="center narrow" margin="header" bgPath="img/opwhy.jpg" bgStyle="full") %}
+{% row(style="center narrow" margin="tight" bgPath="img/opwhy.jpg" bgStyle="full") %}
+
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
 ## About Us
 
@@ -17,6 +19,7 @@ weight: 2
 
 We are fortunate enough to have found this special place and bold enough to turn our dreams into reality. Together we can show people the beauty of our world and help them find themselves in these hectic times.
 
+</div>
 
 {% end %}
 

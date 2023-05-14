@@ -8,7 +8,9 @@ weight: 3
 ---
 <!-- section 1 (Locations) -->
 
-{% row(style="center narrow" margin="header" bgPath="img/luxury.jpeg" bgStyle="full") %}
+{% row(style="center narrow" margin="tight" bgPath="img/luxury.jpeg" bgStyle="full") %}
+
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
 ## Our Location
 
@@ -17,6 +19,8 @@ weight: 3
 You can find us on the west coast of Zanzibar, alongside 150 meters of mangrove-lined beaches, historic ruins, and lush botanical gardens. Nearby, the world-renowned Chumbe island awaits.
 
  <button>[Learn the History](/location/history)</button>
+
+</div>
 
 {% end %}
 
