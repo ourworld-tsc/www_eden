@@ -144,7 +144,7 @@ img[src*="#fig"] {
 }
 
 button:hover  {
-  color: #984210;
+  color: #464646;;
 }
 
 button  {
@@ -211,6 +211,10 @@ button {
 
 a {
   border: none;
+}
+
+a:hover{
+  color: #464646;
 }
 
 header {
