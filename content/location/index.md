@@ -8,7 +8,9 @@ weight: 3
 ---
 <!-- section 1 (Locations) -->
 
-{% row(style="center narrow" margin="header" bgPath="img/location_header.png" bgStyle="full") %}
+{% row(style="center narrow" margin="tight" bgPath="img/luxury.jpeg" bgStyle="full") %}
+
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
 ## Our Location
 
@@ -18,12 +20,7 @@ You can find us on the west coast of Zanzibar, alongside 150 meters of mangrove-
 
  <button>[Learn the History](/location/history)</button>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+</div>
 
 {% end %}
 
@@ -39,31 +36,31 @@ Discover authentic paradise. Roughly ten minutes from world heritage site Stone 
 
 {% row(style="center" margin="narrow" padding="none") %}
 
-![Jungle](img/mbweni.jpg)
+![Jungle](img/mbweni.jpg#mx-auto)
 
 #### **Jungle Paradise**
 
 For short term stays. A beachfront hotel that sits beside historical ruins, all surrounded by beautiful lush gardens featuring a wide variety of native and exotic plants. 
 
  <button>[Info](/location/mbweni)</button>
- <a href=https://hotels.cloudbeds.com/reservation/DNw5Ek target=“_blank”> <button> Stay </button> </a>
+ <a href=https://hotels.cloudbeds.com/reservation/DNw5Ek target=“_blank”> <button> Book a Stay </button> </a>
 
 |||
 
-![Seaview Apartments](img/seaview_apts.png)
+![Seaview Apartments](img/seaview_apts.png#mx-auto)
 
 #### **Seaview Apartments**
 
 For long-term stays. Two apartment buildings, with four three-bedroom spaces and one rooftop penthouse each. Private beach and direct access to Jungle Paradise.
 
  <button>[Info: Coming Soon]()</button>
- <button>[Stay: Coming Soon]()</button>
+ <a href='https://www.airbnb.com/rooms/862002310134454615?guests=1&adults=1&s=67&unique_share_id=845bb97b-f61c-4540-9f50-8d20dabfb042&source_impression_id=p3_1681142141_s2c4V86U9bhXi9Jv' target="_blank"> <button> Book a Stay </button> </a>
 
 {% end %}
 
 {% row(style="center" margin="narrow" padding="none") %}
 
-![Gardens](img/ruins.jpg)
+![Gardens](img/ruins.jpg#mx-auto)
 
 ##### **Mbweni Ruins**
 
@@ -73,7 +70,7 @@ We share space with historic ruins of a school for freed slaves (1874) with asso
 
 |||
 
-![Gardens](img/gardens.jpg)
+![Gardens](img/gardens.jpg#mx-auto)
 
 #### **Botanical Gardens**
 
@@ -85,7 +82,7 @@ The Gardens here are beautiful and mature, with more than 280 tree and plant spe
 
 {% row(style="center" margin="narrow" padding="none") %}
 
-![Boats](img/boat.png)
+![Boats](img/boat.png#mx-auto)
 
 #### **Boats**
 
@@ -95,7 +92,7 @@ Guests and visitors are invited to book experiences on our two sailing boats –
 
 |||
 
-![OurOffice](img/ouroffice.png)
+![OurOffice](img/ouroffice.png#mx-auto)
 
 #### **OurOffice**
 
@@ -107,7 +104,7 @@ A three-floor office space perfect for co-working and collaboration. Convenientl
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-![Chumbe Island](img/chumbe.jpeg)
+![Chumbe Island](img/chumbe.jpeg#mx-auto)
 
 #### **Chumbe Island** (Friends of the Project)
 
@@ -117,7 +114,7 @@ An award-winning private nature reserve, home to one of the world's most pristin
 
 |||
 
-![OurOffice](img/ayurvedic.jpg)
+![OurOffice](img/ayurvedic.jpg#mx-auto)
 
 #### **Healing Center: Coming 2023**
 
@@ -129,7 +126,7 @@ The center will combine advanced regenerative healing practices with ancient and
 
 {% row(bgColor="#FFFFFF" margin="moderate" padding="bottom" id="fflow_grid") %}
 
-![map](img/map.png)
+![map](img/map.png#mx-auto)
 
 |||
 
@@ -154,7 +151,7 @@ If you need transportation to a different part of the island, simply let us know
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-![Regenerative Farm](img/regenerative_farm.jpg)
+![Regenerative Farm](img/regenerative_farm.jpg#mx-auto)
 
 #### **Regenerative Farms**
 
@@ -162,7 +159,7 @@ Up to 500 hectares of fertile Tanzanian land for the purpose of sustainable farm
 
 |||
 
-![](img/ecobeach.png)
+![](img/ecobeach.png#mx-auto)
 
 #### **Eco Beach Villas**
 

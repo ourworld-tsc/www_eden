@@ -7,23 +7,22 @@ draft: false
 weight: 6
 ---
 
-{% row(style="center narrow" margin="header" bgPath="img/action_header.png" bgStyle="full") %}
+{% row(style="center narrow" margin="tight" bgPath="img/join_header.png" bgStyle="full") %}
+
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
 ## Calling Dreamers & Doers
 
 ### A Dream Becomes Reality
 
-There are many ways to join in on the efforts to bring the vision to life. Come to Zanzibar to collaborate in-person, buy EDEN (below), or support from afar. Today we are already operating from this location and making initial steps.
+There are many ways to join in on the efforts to bring the vision to life. Come to Zanzibar to collaborate in-person, buy EDN (below), or support from afar. Today we are already operating from this location and making initial steps.
 
 Our primary focus is on **raising $4M USD by June 2023** in order to take on full ownership and finance the project. We cannot do this without the support of like-minded believers.
 
  <button>[Investment Paper: Soon]()</button>
  <button>[Get In Touch](https://docs.google.com/forms/d/e/1FAIpQLSe33Kz4pi3qnNtv115cgSnKCYHZTxZxtPoZKXbaBcWgNbd2qw/viewform)</button>
 
- <br>
- <br>
- <br>
- <br>
+</div>
 
 {% end %}
 
@@ -35,7 +34,7 @@ Our primary focus is on **raising $4M USD by June 2023** in order to take on ful
 
 # A Token for Co-Ownership
 
-We are introducing a token called EDN. EDN Tokens are not crypto currencies, they are pre-purchase tokens of Eden and represent ownership/utilization in the ecosystem. You can always re-sell your EDN tokens or use them to participate in the Eden World.
+We are introducing a token called EDN. EDN Tokens are not crypto currencies, they are pre-purchase tokens of Eden and represent ownership/utilization in the ecosystem. You can always re-sell your EDN tokens or use them to participate in the Eden universe.
 
 {% end %}
 
