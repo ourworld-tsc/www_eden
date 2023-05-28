@@ -1,6 +1,8 @@
 # EDEN Website (Updated)
 
-website on https://zanzibar.ourworld.tf
+Production (master branch) [www.zanzibar.ourworld.tf](www.zanzibar.ourworld.tf) 
+
+Staging (development branch) [www2.zanzibar.ourworld.tf](www2.zanzibar.ourworld.tf)
 
 ## Developers
 
