@@ -1,6 +1,8 @@
-# Welcome to Eden Website Repository
+# EDEN Website (Updated)
 
-## About
+Production (master branch) [www.zanzibar.ourworld.tf](https://www.zanzibar.ourworld.tf/) 
+
+Staging (development branch) [www2.zanzibar.ourworld.tf](https://www2.zanzibar.ourworld.tf/)
 
 The official website of Eden: A Co-Living Community for Change-Makers & Digital Nomads
 
